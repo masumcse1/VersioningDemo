@@ -4,7 +4,7 @@
 
     <groupId>org.ea</groupId>
     <artifactId>VersioningDemo</artifactId>
-    <version>0.5-SNAPSHOT</version>
+    <version>0.5</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -16,11 +16,12 @@
         <archetype.encoding>${encoding}</archetype.encoding>
     </properties>
 
- <scm>
- 		<url>https://github.com/arpitaggarwal/maven-release-plugin-example</url>
- 		<connection>scm:git:https://github.com/arpitaggarwal/maven-release-plugin-example.git</connection>
-       <tag>v${releaseVersion}</tag>
-   </scm>
+	<scm>
+		<url>https://github.com/masumcse1/VersioningDemo</url>
+		<connection>scm:git:https://github.com/masumcse1/VersioningDemo.git</connection>
+                <tag>v0.11</tag>
+  </scm>
+	
 	
 
     <build>
