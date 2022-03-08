@@ -17,10 +17,10 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</connection>
-        <developerConnection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</developerConnection>
-        <url>https://github.com/kalaspuffar/VersioningDemo</url>
-        <tag>@{project.version}</tag>
+        <connection>scm:git:git@github.com:masumcse1/VersioningDemo.git</connection>
+        <developerConnection>scm:git:git@github.com:masumcse1/VersioningDemo.git</developerConnection>
+        <url>https://github.com/masumcse1/VersioningDemo.git</url>
+        <tag>0.5</tag>
     </scm>
 
     <build>
